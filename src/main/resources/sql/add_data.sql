@@ -1,0 +1,1 @@
+CREATE TABLE fiat_money_info(fiat_money_name_en VARCHAR(20) PRIMARY KEY, fiat_money_name_cn VARCHAR(255));
